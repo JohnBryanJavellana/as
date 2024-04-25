@@ -1,0 +1,9 @@
+span.select-arrow { margin-top: 4px !important; }
+input.form-control.select-input.placeholder-active.active { height: 45px !important; }
+
+.bluish_button{
+    background-color: #e3ebf7 !important;
+    color: #285192 !important;
+    box-shadow: none !important;
+    font-weight: bold;
+}
